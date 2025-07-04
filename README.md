@@ -32,7 +32,7 @@ Checked `https://whatismyipaddress.com` to verify that my IP address was changed
 - Browsed `https://wikipedia.org/`
 - Used Wireshark to confirm there was no plaintext `http` traffic visible
 - Verified all traffic was encrypted while VPN was active
-- Verified the 🔒 lock icon in browser,confirming that connection was private and secure.
+- Verified the lock icon in browser,confirming that connection was private and secure.
 
 ### Step 6: Disconnect VPN and Compare
 - Compared IP address before and after VPN
