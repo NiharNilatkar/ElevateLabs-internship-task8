@@ -80,5 +80,4 @@ Using Wireshark and browser inspection, I confirmed that:
 
 ## Deliverables
 - This README.md file
-- Screenshots from speed test, and Broswer
-- Wireshark captures
+- Screenshots from speed test, Wireshark captures and Broswer
